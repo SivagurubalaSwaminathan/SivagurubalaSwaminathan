@@ -2,7 +2,8 @@
 - 👀 I’m interested in Frontend Development, UI/UX Design , Developing Responsive webpages .
 - 🌱 I’m currently learning React.js, responsive design.
 - 💞️ I’m looking to collaborate on open-source projects and web developments.
-- 📫 How to reach me : Feel free to connect with me on [LinkedIn](Sivagurubala-Swaminathan) . You can also reach out via email at sivastsk2004@gmail.com
+- 📫 How to reach me : Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sivagurubala-swaminathan
+) . You can also reach out via email at sivastsk2004@gmail.com
 
 
 

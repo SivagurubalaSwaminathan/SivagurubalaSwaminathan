@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SivagurubalaSwaminathan
-- 👀 I’m interested in Frontend Development, UI/UX Design , Developing Responsive webpages .
+- 👀 I’m interested in Frontend Development, UI/UX Design ,Power Bi , Developing Responsive webpages .
 - 🌱 I’m currently learning React.js, responsive design.
 - 💞️ I’m looking to collaborate on open-source projects and web developments.
 - 📫 How to reach me : Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sivagurubala-swaminathan
